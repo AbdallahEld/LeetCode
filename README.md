@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbdallahEld/LeetCode/tree/master/0001-two-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AbdallahEld/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/AbdallahEld/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbdallahEld/LeetCode/tree/master/0001-two-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AbdallahEld/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -32,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbdallahEld/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AbdallahEld/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AbdallahEld/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
