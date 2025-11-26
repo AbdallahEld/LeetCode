@@ -42,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbdallahEld/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AbdallahEld/LeetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AbdallahEld/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AbdallahEld/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
