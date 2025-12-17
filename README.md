@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AbdallahEld/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AbdallahEld/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/AbdallahEld/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/AbdallahEld/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AbdallahEld/LeetCode/tree/master/0217-contains-duplicate) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbdallahEld/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AbdallahEld/LeetCode/tree/master/0027-remove-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbdallahEld/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
