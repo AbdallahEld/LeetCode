@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AbdallahEld/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/AbdallahEld/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbdallahEld/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/AbdallahEld/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1480-running-sum-of-1d-array](https://github.com/AbdallahEld/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbdallahEld/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/AbdallahEld/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AbdallahEld/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbdallahEld/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbdallahEld/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AbdallahEld/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbdallahEld/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Tree
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AbdallahEld/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbdallahEld/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbdallahEld/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AbdallahEld/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbdallahEld/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
@@ -83,12 +86,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbdallahEld/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AbdallahEld/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbdallahEld/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AbdallahEld/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/AbdallahEld/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbdallahEld/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbdallahEld/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbdallahEld/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
